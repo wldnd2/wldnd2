@@ -1,34 +1,33 @@
-<h2 align="center"> Hi there! 👋 My name is Jiwoong Jeon. </h2>
-<h3 align="center"> 🌱 I'm majoring in compter science engineering at KNU. 🌱</h3>
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeAuto&text=HI👋!&section=header&animation=scaleIn&fontSize=50)
 
+**My name is Jiwoong Jeon. I'm majoring in compter science engineering at KNU.**
+
+<a href="https://github.com/wldnd2"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnd2&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/jjw000628">
 <br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-</p>
-
 <br>
-<h3 align="center"> 🍀 Me 🍀 </h3>
-<p align="center">
-  <a href="https://velog.io/@wldnd2"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@wldnd2"/></a>&nbsp
-  <a href="https://www.instagram.com/jji_woong1029/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jji_woong1029/"/></a>&nbsp
-  <a href="mailto:jiwoong000628@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jiwoong000628@gmail.com"/></a>
-</p>
-
+## 🛠 Tech Stack 🛠
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldnd2&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-  
 <br>
-<div align="center">
- 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw000628)](https://solved.ac/jjw000628/)
-  
-</div>
+## 📚 Studying... 📚
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="79" height="79" /></div>
+<br>
+<br>
+
+## 🍀 Me 🍀
+<a href="https://wldnd2.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+<a href="jiwoong000628@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+[![wldnd2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wldnd2&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![wldnd2's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jjw000628)](https://solved.ac/profile/jjw000628)
+
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&height=150&color=timeAuto&section=footer)
